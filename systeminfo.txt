@@ -1,0 +1,17 @@
+Couln't get Public IP Address (most likely max queryProcessor: Intel64 Family 6 Model 158 Stepping 13, GenuineIntel
+System: Windows 10.0.22621
+Couln't get Public IP Address (most likely max queryProcessor: Intel64 Family 6 Model 158 Stepping 13, GenuineIntel
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Anmol
+Private IP Address: 192.168.29.71
+Couln't get Public IP Address (most likely max queryProcessor: Intel64 Family 6 Model 158 Stepping 13, GenuineIntel
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Anmol
+Private IP Address: 192.168.29.71
+Couln't get Public IP Address (most likely max queryProcessor: Intel64 Family 6 Model 158 Stepping 13, GenuineIntel
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Anmol
+Private IP Address: 192.168.29.71
